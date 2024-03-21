@@ -3,7 +3,7 @@
 
 
 - 🔭 I am currently looking for an internship
-- 🌱 I’m currently learning Kotlin, SpringMVC, MySQL and other technologies, oh studing english as well
+- 🌱 Also currently learning Kotlin, SpringMVC, MySQL and other technologies, oh studing english as well
 - 📫 How to reach me: mateusnucicosta@gmail.com
 - ⚡ Fun fact: I don’t know, you tell me?
 
@@ -23,6 +23,8 @@
           
 ## Contact:
 
+![GojoSatoru](https://github.com/mateusnuci/mateusnuci/assets/98439022/2b80fea3-afb5-48a3-990b-64549d549fd4)
+
 <div>
 <a href="https://instagram.com/mateussnuci" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mateusnucicosta@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,4 +33,3 @@
 
 
           
-![...](https://br.pinterest.com/pin/586664288960670271/)
