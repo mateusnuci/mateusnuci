@@ -23,7 +23,7 @@
           
 ## Contact:
 
-![GojoSatoru](https://github.com/mateusnuci/mateusnuci/assets/98439022/2b80fea3-afb5-48a3-990b-64549d549fd4)
+![satoruvs](https://github.com/mateusnuci/mateusnuci/assets/98439022/b8587ef1-f54b-43f7-9325-89816ae3ddd6)
 
 <div>
 <a href="https://instagram.com/mateussnuci" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
