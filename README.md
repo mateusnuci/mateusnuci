@@ -32,8 +32,7 @@
 
 
 #### Appreciate it
-![satoruvs](https://github.com/mateusnuci/mateusnuci/assets/98439022/b8587ef1-f54b-43f7-9325-89816ae3ddd6)
-![sukunavs](https://github.com/mateusnuci/mateusnuci/assets/98439022/cc013360-a742-4714-bc77-51ffbcafc28e)
+![satoruvs](https://github.com/mateusnuci/mateusnuci/assets/98439022/b8587ef1-f54b-43f7-9325-89816ae3ddd6)![sukunavs](https://github.com/mateusnuci/mateusnuci/assets/98439022/cc013360-a742-4714-bc77-51ffbcafc28e)
 
 
           
