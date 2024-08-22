@@ -31,11 +31,4 @@
 </div>    
 
 
-#### Appreciate it
-
-
-<div>
-          <img src="https://github.com/mateusnuci/mateusnuci/assets/98439022/b8587ef1-f54b-43f7-9325-89816ae3ddd6" width = 200 />
-          <img src="https://github.com/mateusnuci/mateusnuci/assets/98439022/cc013360-a742-4714-bc77-51ffbcafc28e" width = 200 />
-</div>
           
