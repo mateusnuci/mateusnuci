@@ -3,7 +3,7 @@
 
 
 - 🔭 I am currently looking for an internship
-- 🌱 Also currently learning Kotlin, SpringMVC, MySQL and other technologies, oh studing english as well
+- 🌱 Also currently learning Kotlin, SpringMVC, MySQL and other technologies, oh studying english as well
 - 📚 FIAP : Information Systems student
 - 📫 How to reach me: mateusnucicosta@gmail.com
 - ⚡ Fun fact: I don’t know, you tell me?
